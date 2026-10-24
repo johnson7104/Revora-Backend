@@ -2,8 +2,6 @@ node_modules/
 dist/
 coverage/
 *.log
-.env
-.env.*
 !.env.example
 npm-debug.log*
 yarn-debug.log*
@@ -16,3 +14,4 @@ reports/mutation/
 branch_structure.json
 .tools/
 .opencode
+config.bat
